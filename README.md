@@ -34,3 +34,8 @@ A browser-based Tic Tac Toe game coded in Javascript, HTML, and CSS.
 
 - As a user, I want the ability to play with friends and not just a computer.
 - As a user, I want a leaderboard that compares my stats with others
+
+
+### Wireframes
+
+![Tic tac toe board](./assets/wireframe-tictactoe-board.png)
